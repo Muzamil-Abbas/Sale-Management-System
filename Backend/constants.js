@@ -1,0 +1,1 @@
+export const DB_NAME="your db name" // Enter your db name connect with project
